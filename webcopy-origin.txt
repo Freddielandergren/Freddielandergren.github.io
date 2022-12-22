@@ -1,0 +1,360 @@
+Uri: https://fonts.googleapis.com/css?family=Barlow+Condensed:400%2C|Barlow+Semi+Condensed:500%2C|Playfair+Display:800%2C400&display=fallback&ver=3.9.4
+File Name: C:\Downloaded Web Sites\www.freddie.pm\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlowcondensed/v12/HTx3L3I-JCGChYJ8VI-L6OO_au7B6xHT3w.ttf
+File Name: C:\Downloaded Web Sites\www.freddie.pm\s\barlowcondensed\v12\HTx3L3I-JCGChYJ8VI-L6OO_au7B6xHT3w.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlowsemicondensed/v14/wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sg.ttf
+File Name: C:\Downloaded Web Sites\www.freddie.pm\s\barlowsemicondensed\v14\wlpigxjLBV1hqnzfr-F8sEYMB0Yybp0mudRfi6m_B2sg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+File Name: C:\Downloaded Web Sites\www.freddie.pm\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvXDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+File Name: C:\Downloaded Web Sites\www.freddie.pm\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFunDXbtY.ttf
+Content Type: font/ttf
+
+Uri: https://www.freddie.pm/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\index.htm
+Content Type: text/html
+
+Uri: https://www.freddie.pm/comments/feed/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.freddie.pm/contact/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\contact\index.htm
+Content Type: text/html
+
+Uri: https://www.freddie.pm/feed/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://www.freddie.pm/portfolio/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\portfolio\index.htm
+Content Type: text/html
+
+Uri: https://www.freddie.pm/resume/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\resume\index.htm
+Content Type: text/html
+
+Uri: https://www.freddie.pm/wp-content/themes/astra/assets/css/minified/main.min.css?ver=3.9.4
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\themes\astra\assets\css\minified\main.min.css
+Content Type: text/css
+
+Uri: https://www.freddie.pm/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=3.9.4
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\themes\astra\assets\js\minified\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.freddie.pm/wp-content/uploads/2021/12/favicon.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2021\12\favicon.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/06/Flogo-125x125.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\06\Flogo-125x125.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/06/Flogo.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\06\Flogo.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/06/star.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\06\star.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/06/starhalf.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\06\starhalf.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/06/Tel.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\06\Tel.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/CV2.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\CV2.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Googleanalyticsga4-150x150.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Googleanalyticsga4-150x150.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Googleanalyticsga4.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Googleanalyticsga4.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Googletagmanager-150x150.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Googletagmanager-150x150.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Googletagmanager.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Googletagmanager.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/linkedin-150x150.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\linkedin-150x150.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/linkedin.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\linkedin.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/ma5.4-150x150.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\ma5.4-150x150.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/ma5.4-300x300.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\ma5.4-300x300.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/ma5.4-768x768.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\ma5.4-768x768.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/ma5.4.png
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\ma5.4.png
+Content Type: image/png
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/mebw2-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\mebw2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/mebw2-300x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\mebw2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/mebw2.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\mebw2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Aland3-201x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Aland3-201x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Aland3-302x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Aland3-302x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Aland3-59x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Aland3-59x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Aland3-768x3910.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Aland3-768x3910.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Aland3-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Aland3-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Finsk-Sommar4-198x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Finsk-Sommar4-198x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Finsk-Sommar4-297x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Finsk-Sommar4-297x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Finsk-Sommar4-396x2048.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Finsk-Sommar4-396x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Finsk-Sommar4-58x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Finsk-Sommar4-58x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Finsk-Sommar4-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Finsk-Sommar4-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Skargard-Sverige_Aland3-200x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Skargard-Sverige_Aland3-200x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Skargard-Sverige_Aland3-300x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Skargard-Sverige_Aland3-300x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Skargard-Sverige_Aland3-400x2048.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Skargard-Sverige_Aland3-400x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Skargard-Sverige_Aland3-768x3933.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Skargard-Sverige_Aland3-768x3933.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Skargard-Sverige_Aland3-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Skargard-Sverige_Aland3-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-257x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-257x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-385x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-385x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-75x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-75x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-768x3063.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-768x3063.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Spendera-sommaren-pa-Vastkusten3-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Svemester-i-sommar_3-209x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Svemester-i-sommar_3-209x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Svemester-i-sommar_3-313x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Svemester-i-sommar_3-313x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Svemester-i-sommar_3-61x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Svemester-i-sommar_3-61x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Svemester-i-sommar_3-768x3768.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Svemester-i-sommar_3-768x3768.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Svemester-i-sommar_3-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Svemester-i-sommar_3-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upplev-Norge3-429x2048.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upplev-Norge3-429x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upplev-Norge3-63x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upplev-Norge3-63x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upplev-Norge3-768x3667.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upplev-Norge3-768x3667.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upplev-Norge3-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upplev-Norge3-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upptack-Norden-i-sommar4-221x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upptack-Norden-i-sommar4-221x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upptack-Norden-i-sommar4-331x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upptack-Norden-i-sommar4-331x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upptack-Norden-i-sommar4-65x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upptack-Norden-i-sommar4-65x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upptack-Norden-i-sommar4-768x3561.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upptack-Norden-i-sommar4-768x3561.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Nyhetsbrev-Upptack-Norden-i-sommar4-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Nyhetsbrev-Upptack-Norden-i-sommar4-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Recensionbrev-uppfoljning-rabattkod4-137x300.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Recensionbrev-uppfoljning-rabattkod4-137x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Recensionbrev-uppfoljning-rabattkod4-468x1024.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Recensionbrev-uppfoljning-rabattkod4-468x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Recensionbrev-uppfoljning-rabattkod4-702x1536.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Recensionbrev-uppfoljning-rabattkod4-702x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Recensionbrev-uppfoljning-rabattkod4-768x1679.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Recensionbrev-uppfoljning-rabattkod4-768x1679.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Recensionbrev-uppfoljning-rabattkod4-937x2048.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Recensionbrev-uppfoljning-rabattkod4-937x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/10/Recensionbrev-uppfoljning-rabattkod4-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\10\Recensionbrev-uppfoljning-rabattkod4-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://www.freddie.pm/wp-content/uploads/2022/12/CV-Freddie-Landergren.pdf
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-content\uploads\2022\12\CV-Freddie-Landergren.pdf
+Content Type: application/pdf
+
+Uri: https://www.freddie.pm/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.freddie.pm/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.freddie.pm/wp-json/
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2F
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2Fportfolio%2F
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2Fportfolio%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2Fresume%2F
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.freddie.pm%2Fresume%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://www.freddie.pm/wp-json/wp/v2/pages/298
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\wp\v2\pages\298
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/wp/v2/pages/345
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\wp\v2\pages\345
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/wp/v2/pages/366
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\wp\v2\pages\366
+Content Type: application/json
+
+Uri: https://www.freddie.pm/wp-json/wp/v2/pages/375
+File Name: C:\Downloaded Web Sites\www.freddie.pm\wp-json\wp\v2\pages\375
+Content Type: application/json
+
+Uri: https://www.instagram.com/static/bundles/metro/EmbedSDK.js/d9addf525b6a.js
+File Name: C:\Downloaded Web Sites\www.freddie.pm\static\bundles\metro\EmbedSDK.js\d9addf525b6a.js
+Content Type: text/javascript
+
